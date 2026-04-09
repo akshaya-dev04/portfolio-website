@@ -30,3 +30,7 @@ section {
     border-radius: 10px;
     display: inline-block;
 }
+ul {
+    list-style: none;
+    padding: 0;
+}
